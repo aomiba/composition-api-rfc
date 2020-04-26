@@ -3,7 +3,7 @@ sidebar: auto
 sidebarDepth: 2
 ---
 
-# API Reference
+# API 参考
 
 ::: tip
 从 Vue Mastery 免费下载 [Cheat Sheet](https://www.vuemastery.com/vue-3-cheat-sheet/)，或观看 [Vue3 免费课程](https://www.vuemastery.com/courses/vue-3-essentials/why-the-composition-api/)
